@@ -21,7 +21,7 @@ public class RemoveElement {
 	}
 		
 	public static void main(String[] args) {
-		int[] nums= {2,5,9,7,4};
+		int[] nums= {2,5,9,7,4,9};
 		int n=9;
 		System.out.println(Arrays.toString(remove(nums,n)));
 
